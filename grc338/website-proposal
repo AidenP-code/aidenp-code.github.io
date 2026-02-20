@@ -1,1 +1,174 @@
+<!doctype html>  
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+         <link rel="stylesheet" type="text/css" href="https://grc-ribeiro.github.io/files/proposal.css">
+        <title>Aiden Phan - Final project proposal</title>
+    
+    </head>
+    <body>
+    
+        <div class="container">
+        
+            <h1>Final project proposal</h1>
+            
+            <h2>Introduction</h2>
+            
+            <p>Dario's Bakery</p>
+            
+            <p>Dario’s Bakery is your neighborhood stop for warm, handcrafted bread and pastries made fresh every day. From crisp, golden loaves to buttery croissants and classic Italian-inspired sweets, everything is baked with simple ingredients and a lot of care. Whether you’re grabbing a quick espresso and a morning treat or picking up something special to share, Dario’s brings the comfort of a real bakery to every bite. </p><!--Short description of the company-->
+            
+            <h2>Target audience</h2>
+            
+            <p>The Dario’s Bakery site is used by people who want fresh bread, pastries, desserts, and coffee—mostly local residents and families, commuters or students looking for a quick breakfast, and food lovers who care about quality, plus a secondary group like office managers and event hosts who need larger orders or catering. Their main goals are to quickly find the menu and prices, confirm hours and location, and figure out the easiest way to order or contact the bakery for custom items. They visit the site to plan a stop-in, decide what to buy ahead of time, place an order for pickup, check for specials, or get details for events like cake orders and pastry boxes.</p><!-- Who are the people who use this site? -->
+           
+            <h2>Comparative analysis</h2>
+            
+            
+            
+            <h3>Matt's Bakery</h3>
+           
+            <p><a href="https://www.ednasbakery.com/">mattsbakery.com</a></p>
+            
+            <img src="example 1-1.png" alt="Screenshot of the home page of the Matt's Bakery website." title="" />
+            
+            <img src="example 1-2.png" alt="Screenshot of the 'baked goods' page of the Matt's Bakery website." title="" />
 
+            <h3>Back Porch Bakery</h3><!-- Change this name to the actual name of the site. -->
+           
+            <p><a href="https://www.backporchbakery.com/">backporchbakery.com</a></p> <!-- Change it to the actual URL of the reference website. -->
+            
+            <img src="example 2-1.png" alt="Screenshot of the home page of the backporchbakery website." title="" />
+            
+            <img src="example 2-2.png" alt="Screenshot of the 'our story' page of the backporchbakery website." title="" />
+
+
+            <h3>Porto's Bakery</h3><!-- Change this name to the actual name of the site. -->
+           
+            <p><a href="http://www.example.com">portosbakery.com</a></p> <!-- Change it to the actual URL of the reference website. -->
+            
+            <img src="example 3-1.png" alt="Screenshot of the home page of the porto's website." title="" />
+            
+            <img src="example 3-2.png" alt="Screenshot of the menu page of the porto's website." title="" />
+
+
+            <h2>Website content</h2>
+           
+           <!-- Write the actual content for the website. Don’t use placeholders. -->
+           
+           <nav> <!-- For this proposal, you don’t need to make them links, only a list of items on the navigation menu. -->
+                 <ul>
+                    <li>Home</li>
+                    <li>About Us</li>
+                    <li>Contact</li>
+                </ul>
+            </nav>
+            
+            <section> <!-- For this proposal, use one section per page of your website. -->
+            
+					<h1>Home</h1><!-- Home, About us, Contact, etc. -->
+				
+					<p>Welcome to Dario’s Bakery, where the ovens are always warm and everything is made fresh with care. From crusty artisan loaves and buttery pastries to Italian-inspired sweets and rich espresso, we bake the kind of food that turns an ordinary day into something special. Stop in for a quick morning treat, pick up bread for dinner, or grab a box of favorites to share—whatever brings you in, we’re happy to have you.</p>
+			  
+					<p>[Fresh floured dough on top of a wooden cutting board.]</p><!-- This is a placeholder! Change it to the actual description of your image. -->
+				
+            </section>
+            
+            <section>
+            
+					<h1>About Us</h1><!-- Home, About us, Contact, etc. -->
+				
+					<p>At Dario’s Bakery, we believe the best days start with something fresh from the oven. What began as a love for traditional baking and Italian-inspired flavors has grown into a neighborhood bakery built on simple ingredients, time-honored techniques, and the joy of sharing good food. Every morning, our team mixes, folds, proofs, and bakes in small batches so each loaf, pastry, and dessert tastes as warm and welcoming as the shop itself.</p>
+			  
+                    <p>We’re proud to be a place where regulars feel known, newcomers feel at home, and the smell of bread makes you slow down for a moment. Whether you’re stopping in for espresso and a croissant, picking up a crusty loaf for dinner, or ordering something special for a celebration, we’re here to make it memorable. Thanks for supporting local baking—see you at the counter.</p>
+
+					<p>[Old black and white photo of pastries being baked in a regular home kitchen]</p><!-- This is a placeholder! Change it to the actual description of your image. -->
+				
+            </section>
+
+            <section>
+                    <h1>Menu</h1>
+
+                    <ol>
+                        <li>
+                            <h2>Butter Croissant</h2>
+                            <p>flaky, buttery, baked fresh daily</p>
+                            <p>$3.75</p>
+                        </li>
+
+                        <li>
+                            <h2>Almond Croissant</h2>
+                            <p>filled with almond cream, topped with toasted almonds</p>
+                            <p>$3.75</p>
+                        </li>
+
+                        <li>
+                            <h2>Butter Croissant</h2>
+                            <p>flaky, buttery, baked fresh daily</p>
+                            <p>$4.50</p>
+                        </li>
+
+                        <li>
+                            <h2>Cinnamon Brioche Roll</h2>
+                            <p>soft brioche with cinnamon sugar swirl and glaze</p>
+                            <p>$4.25</p>
+                        </li>
+
+                        <li>
+                            <h2>Classic Sourdough Loaf</h2>
+                            <p>naturally leavened, crisp crust, chewy center</p>
+                            <p>$7.50</p>
+                        </li>
+
+                        <li>
+                            <h2>Rosemary Focaccia Slice</h2>
+                            <p>olive oil–rich, topped with rosemary and sea salt</p>
+                            <p>$4.00</p>
+                        </li>
+
+                        <li>
+                            <h2>Italian Biscotti</h2>
+                            <p>crunchy twice-baked cookies, almond + citrus</p>
+                            <p>$3.50</p>
+                        </li>
+
+                        <li>
+                            <h2>Tiramisu Cup</h2>
+                            <p>espresso-soaked layers with mascarpone cream</p>
+                            <p>$6.25</p>
+                        </li>
+
+                        <li>
+                            <h2>Cappuccino</h2>
+                            <p>bold espresso with silky steamed milk foam</p>
+                            <p>$4.50</p>
+                        </li>
+
+                    </ol>
+            </section>
+
+            <section> <!-- For this proposal, use one section per page of your website. -->
+            
+					<h1>Contact</h1><!-- Home, About us, Contact, etc. -->
+				
+					<p>We’d love to hear from you! Whether you have a question about today’s menu, want to place a custom order, or need help with catering, reach out anytime.</p><!-- This is a placeholder! Change it to the actual content of your page. -->
+			  
+                    <p>Address: 712 Broad St, San Luis Obispo, CA, 93401</p>
+
+                    <p>Phone: + 805 555-5555</p>
+
+                    <p>Email: freshbakedgoods@dariosbakery.com</p>
+
+					<p>[A women taking a phone call and writing down the food orders with a paper and pen]</p><!-- This is a placeholder! Change it to the actual description of your image. -->
+				
+            </section> <!-- Create one section per page on your project. -->
+            
+        
+        </div>
+    </body>
+</html>
+
+<!-- 
+    Go back and delete each of my comments, making sure you have read and followed the instructions on each one of them. Once you’re done, delete this comment too.
+    -->
